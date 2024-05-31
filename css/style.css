@@ -1318,6 +1318,9 @@ button {
     .Form_item-btn {
         padding: 14px 150px;
     }
+    .Investors_background-two {
+        top: -287px;
+    }
     .Investors_subtitle {
         font-size: 26px;
         padding: 0;
@@ -1327,5 +1330,8 @@ button {
     }
     .Projecits_swiper-slide, .Sales_swiper-slide {
         margin-right: 5px !important;
+    }
+    .Contacts_inner-info {
+        height: 385px;
     }
 }
